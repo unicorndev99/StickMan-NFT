@@ -1,1 +1,1 @@
-# StickMan-NFT
+# stickman
